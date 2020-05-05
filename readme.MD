@@ -20,7 +20,7 @@
         It means column title when it annotated on property.
         
     Annotation ExcelIgnore can ignore export this property.
-        It means will disapear this colmun in the excel file.
+        It means will disappear this colmun in the excel file.
     For example:
     
         @ExcelAlias("user") //worksheet title
@@ -32,7 +32,7 @@
             @ExcelAlias("User Name") //column title
             private String username;
             
-            @ExcelIgnore //disapear this column
+            @ExcelIgnore //disappear this column
             private String password;
             
             ......//getters and setters
