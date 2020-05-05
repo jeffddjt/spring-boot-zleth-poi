@@ -12,7 +12,7 @@
   <artifactId>spring-boot-zleth-poi</artifactId>
   <version>1.0.2.RELEASE</version>
   <name>spring-boot-zleth-poi</name>
-  <description>Import Java object to excel</description>
+  <description>Export Java object to excel</description>
 
   <licenses>
     <license>
