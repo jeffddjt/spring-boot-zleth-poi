@@ -10,9 +10,9 @@
   </parent>
   <groupId>com.zleth.poi</groupId>
   <artifactId>spring-boot-zleth-poi</artifactId>
-  <version>1.0.1.RELEASE</version>
+  <version>1.0.2.RELEASE</version>
   <name>spring-boot-zleth-poi</name>
-  <description>Demo project for Spring Boot</description>
+  <description>Import Java object to excel</description>
 
   <licenses>
     <license>
@@ -43,11 +43,7 @@
   <dependencies>
     <dependency>
       <groupId>org.springframework.boot</groupId>
-      <artifactId>spring-boot-starter-web</artifactId>
-    </dependency>
-    <dependency>
-      <groupId>org.springframework.boot</groupId>
-      <artifactId>spring-boot-starter-data-jpa</artifactId>
+      <artifactId>spring-boot-starter</artifactId>
     </dependency>
 
     <dependency>
