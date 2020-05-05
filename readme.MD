@@ -38,7 +38,7 @@
             ......//getters and setters
         }
         
-    Of course you add nothing annotation on any class, it will use classname and property name to generate worksheet title or column title.
+    Of course you add nothing annotation on the class then it will use classname and property name to generate worksheet title or column title.
     
 ## Step 3.  Use ExcelStream export excel file in Controller
 
